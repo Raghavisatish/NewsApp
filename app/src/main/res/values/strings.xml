@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="author">This is he author</string>
+    <string name="title">This is the latest news</string>
+    <string name="description">This is the description</string>
+    <string name="updates">Updates For You</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+</resources>
